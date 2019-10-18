@@ -1,0 +1,15 @@
+{
+  "name": "tareasapp",
+  "version": "1.0.0",
+  "description": "Aplicacion de tareas, Curso de Nodejs FernandoHerrera",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elvin Sánchez",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^14.2.0"
+  }
+}
